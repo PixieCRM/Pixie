@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="britixo_blue">#2457D6</color>
+    <color name="britixo_text">#0F172A</color>
+    <color name="britixo_muted">#64748B</color>
+    <color name="britixo_surface">#F8FAFC</color>
+    <color name="white">#FFFFFF</color>
+</resources>
